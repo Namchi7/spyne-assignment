@@ -19,3 +19,7 @@
 - The UI is kept fairly simple to avoid any confusions on the project's functionality.
 - **Trade-Off** - While the project requires the user to write a WEBVTT format subtitle, given more time I would have taken a few user inputs for time and text in more user-friendly way to improve UX.
 - **What would I build next** - I would add a functionality for wherever the user pauses the video, the user can directly pick up the time at which the video is paused instead of just manually providing timestamps to further improve the user experience.
+
+### Live Deployed Link
+
+Click to open deployed project: [https://spyne.netlify.app](https://spyne.netlify.app).
